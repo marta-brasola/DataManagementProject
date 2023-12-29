@@ -16,7 +16,11 @@ PROCEDIMENTO
 PULIZIA DEL DATASET E DATASET FINALE 
 
 QUALE GRAFICO PER LE ANALISI 
+
 ![image](https://github.com/marta-brasola/DataManagementProject/assets/72508540/3e795769-ff3a-40c2-bfed-5f56f100bfad)
+![image](https://github.com/marta-brasola/DataManagementProject/assets/72508540/1d72e2f0-eeba-49f3-b7bf-eab1301e3aba)
+![image](https://github.com/marta-brasola/DataManagementProject/assets/72508540/f1f05914-514a-4ca5-bfc1-04986cb4b0ff)
+![image](https://github.com/marta-brasola/DataManagementProject/assets/72508540/7f2851e6-fe8d-4737-b304-5f588705bbaf)
 
 CONCLUSIONI 
 
